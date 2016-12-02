@@ -23,7 +23,7 @@ try{
                     "AccessKey": "",
                     "SecretKey": "",
                     "Region": "$REGION",
-                    "LogGroup": "/heisenberg/security",
+                    "LogGroup": "<Insert log group, example: /monitored-instances/RDP-Access>",
                     "LogStream": "{hostname}"
                 }
             }
